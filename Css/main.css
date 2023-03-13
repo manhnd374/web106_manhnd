@@ -1,0 +1,16 @@
+ul li {
+    
+    display: inline-block;
+    padding: 14px 16px;
+}
+ul {
+    background-color: antiquewhite;
+}
+li a {
+    color: black;
+    text-decoration: none;
+    
+}
+body {
+    background-color: gray;
+}
